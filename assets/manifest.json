@@ -1,0 +1,10 @@
+{
+  "name": "Contador Personalizado",
+  "short_name": "Contador",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "Contador básico mulplataformas",
+  "orientation": "natural"
+}
